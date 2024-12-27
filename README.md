@@ -1,9 +1,9 @@
 ## Hi I'm Vikas 👋
 
-<!--
 ## 🚀 About Me
 
 ## 🛠 Skills
+python css3 git html5 java javascript linux mysql postgresql postman spring
 
 
 Here are some ideas to get you started:
