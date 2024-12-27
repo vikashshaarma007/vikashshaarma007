@@ -1,7 +1,10 @@
-## Hi there 👋I'm Vikas
+## Hi I'm Vikas 👋
 
 <!--
-**vikashshaarma007/vikashshaarma007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+
+## 🛠 Skills
+
 
 Here are some ideas to get you started:
 
