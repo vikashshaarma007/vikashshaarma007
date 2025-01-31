@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hii I' m Vikas Kumar<br># about me I'm Currently working on java Development <br>I'm Currently  learning React js and node js
+
+# Hii👋I'm Vikas Kumar<br>
+#💫 About Me: I'm Currently working on java Development <br>I'm Currently  learning React js and node js
 
 
 ## 🌐 Socials:
