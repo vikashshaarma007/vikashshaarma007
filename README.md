@@ -1,6 +1,6 @@
 
 # Hii👋I'm Vikas Kumar
-<br><br>#💫 About Me: I'm Currently working on Backend Development <br>I'm Currently  learning React js, node js, Php and Ajax
+<br><br>#💫 About Me: I'm Currently working on Backend Development <br>I'm Currently  learning React js, node js, Php and Ajax <br><br>
 🔗 **[Visit Portfolio](https://vikas-developer-portfolio-rose.vercel.app/)**
 
 
